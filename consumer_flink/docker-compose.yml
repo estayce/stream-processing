@@ -1,0 +1,42 @@
+services:
+  flink-jobmanager:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: consumer-flink:1.0
+    container_name: flink-jobmanager
+    hostname: flink-jobmanager
+    command: jobmanager
+    ports:
+      - "8081:8081"
+    env_file:
+      - .env
+    environment:
+      FLINK_PROPERTIES: |
+        jobmanager.rpc.address: flink-jobmanager
+    volumes:
+      - ./checkpoints:/opt/stream/checkpoints
+    networks:
+      - stream-network
+
+  flink-taskmanager:
+    image: consumer-flink:1.0
+    container_name: flink-taskmanager
+    hostname: flink-taskmanager
+    depends_on:
+      - flink-jobmanager
+    command: taskmanager
+    env_file:
+      - .env
+    environment:
+      FLINK_PROPERTIES: |
+        jobmanager.rpc.address: flink-jobmanager
+    volumes:
+      - ./checkpoints:/opt/stream/checkpoints
+    networks:
+      - stream-network
+
+networks:
+  stream-network:
+    external: true
+    name: stream-network

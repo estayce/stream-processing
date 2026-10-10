@@ -1,0 +1,29 @@
+services:
+  producer:
+    build:
+      context: .
+      dockerfile: Dockerfile
+
+    image: gps-producer:1.0
+    container_name: gps-producer
+
+    environment:
+      KAFKA_SERVIDORES: kafka:19092
+      KAFKA_TOPICO: gps
+      DIRETORIO_TRAJETORIAS: /app/trajetoria
+      QUANTIDADE_VEICULOS: "${QUANTIDADE_VEICULOS:-15}"
+      PONTOS_POR_TRAJETORIA: "50"
+      INTERVALO_SEGUNDOS: "1.0"
+
+    volumes:
+      - ./trajetoria:/app/trajetoria:ro
+
+    networks:
+      - stream-network
+
+    restart: "no"
+
+networks:
+  stream-network:
+    external: true
+    name: stream-network

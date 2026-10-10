@@ -1,0 +1,805 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.620984,
+          -22.730077999999992
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 0,
+        "distancia_desde_origem_m": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.620950882901276,
+          -22.729993132228515
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 1,
+        "distancia_desde_origem_m": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.620917817203704,
+          -22.729908247216112
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 2,
+        "distancia_desde_origem_m": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.62088475661366,
+          -22.729823360515088
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 3,
+        "distancia_desde_origem_m": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.620852364656976,
+          -22.729738252273055
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 4,
+        "distancia_desde_origem_m": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.6208196829525,
+          -22.729653240032356
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 5,
+        "distancia_desde_origem_m": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.62078656821855,
+          -22.729568371522042
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 6,
+        "distancia_desde_origem_m": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.620753498894516,
+          -22.729483488481115
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 7,
+        "distancia_desde_origem_m": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.62072122144561,
+          -22.729398342826602
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 8,
+        "distancia_desde_origem_m": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.620688921281996,
+          -22.729313204593097
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 9,
+        "distancia_desde_origem_m": 90
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.62065658298856,
+          -22.729228078814355
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 10,
+        "distancia_desde_origem_m": 100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.62062425657474,
+          -22.729142949158827
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 11,
+        "distancia_desde_origem_m": 110
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.62059213337617,
+          -22.72905775347024
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 12,
+        "distancia_desde_origem_m": 120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.62055998682518,
+          -22.728972565231803
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 13,
+        "distancia_desde_origem_m": 130
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.62052784031913,
+          -22.728887376982325
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 14,
+        "distancia_desde_origem_m": 140
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.620495694170216,
+          -22.72880218862052
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 15,
+        "distancia_desde_origem_m": 150
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.62046358053531,
+          -22.728716989710453
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 16,
+        "distancia_desde_origem_m": 160
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.620431466945305,
+          -22.728631790789382
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 17,
+        "distancia_desde_origem_m": 170
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.62039935340022,
+          -22.728546591857295
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 18,
+        "distancia_desde_origem_m": 180
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.62036723990004,
+          -22.728461392914202
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 19,
+        "distancia_desde_origem_m": 190
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.620335126444765,
+          -22.728376193960095
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 20,
+        "distancia_desde_origem_m": 200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.620303013034416,
+          -22.728290994994964
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 21,
+        "distancia_desde_origem_m": 210
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.62027089966896,
+          -22.728205796018827
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 22,
+        "distancia_desde_origem_m": 220
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.620238786348416,
+          -22.72812059703168
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 23,
+        "distancia_desde_origem_m": 230
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.62020667307278,
+          -22.728035398033512
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 24,
+        "distancia_desde_origem_m": 240
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.62016122823061,
+          -22.727955961743547
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 25,
+        "distancia_desde_origem_m": 250
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.62008501313292,
+          -22.727902187232676
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 26,
+        "distancia_desde_origem_m": 260
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.61999556548029,
+          -22.727915123364753
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 27,
+        "distancia_desde_origem_m": 270
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.6199051469555,
+          -22.72794845738156
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 28,
+        "distancia_desde_origem_m": 280
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.619814708056936,
+          -22.72798174378791
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 29,
+        "distancia_desde_origem_m": 290
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.619724226651535,
+          -22.728014930789705
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 30,
+        "distancia_desde_origem_m": 300
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.61963374519769,
+          -22.728048117744176
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 31,
+        "distancia_desde_origem_m": 310
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.61954326575835,
+          -22.72808130948813
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 32,
+        "distancia_desde_origem_m": 320
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.61945280011206,
+          -22.728114533637495
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 33,
+        "distancia_desde_origem_m": 330
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.61936233441727,
+          -22.72814775773956
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 34,
+        "distancia_desde_origem_m": 340
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.619271898848694,
+          -22.728181051924143
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 35,
+        "distancia_desde_origem_m": 350
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.619181446151764,
+          -22.72821430659765
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 36,
+        "distancia_desde_origem_m": 360
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.61908930995953,
+          -22.728234307994807
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 37,
+        "distancia_desde_origem_m": 370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.61900096884286,
+          -22.728223750148977
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 38,
+        "distancia_desde_origem_m": 380
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.619033998944936,
+          -22.728147626187397
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 39,
+        "distancia_desde_origem_m": 390
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.61911827919568,
+          -22.728106323729445
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 40,
+        "distancia_desde_origem_m": 400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.619208510105295,
+          -22.72807255471309
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 41,
+        "distancia_desde_origem_m": 410
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.61929874096587,
+          -22.728038785649748
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 42,
+        "distancia_desde_origem_m": 420
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.61938898700741,
+          -22.728005051799254
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 43,
+        "distancia_desde_origem_m": 430
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.619479390155185,
+          -22.72797168174
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 44,
+        "distancia_desde_origem_m": 440
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.61956979325432,
+          -22.727938311633526
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 45,
+        "distancia_desde_origem_m": 450
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.61966019630482,
+          -22.727904941479835
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 46,
+        "distancia_desde_origem_m": 460
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.619750599306684,
+          -22.72787157127893
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 47,
+        "distancia_desde_origem_m": 470
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.61984100225991,
+          -22.72783820103079
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 48,
+        "distancia_desde_origem_m": 480
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.6199314051645,
+          -22.727804830735444
+        ]
+      },
+      "properties": {
+        "vehicle_id": 1138,
+        "route_id": "veiculo_1138",
+        "ordem": 49,
+        "distancia_desde_origem_m": 490
+      }
+    }
+  ]
+}
