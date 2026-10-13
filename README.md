@@ -51,7 +51,7 @@ python kafka/iniciar_kafka.py
 python scripts/executar_experimento.py
 ```
 
-Para encerrar o Kafka após os experimentos:
+Para encerrar o Kafka após os testes:
 
 ```bash
 docker compose -f kafka/docker-compose.yml down
