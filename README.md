@@ -10,7 +10,7 @@ Testes de carga para comparar a latência dos eventos de entrada e saída de ve�
 
 ## Instalação e execução
 
-Execute os comandos abaixo **na ordem indicada**:
+Execute os comandos abaixo na ordem indicada:
 
 ```bash
 # Baixar o projeto
@@ -32,7 +32,9 @@ pip install -r scripts/requirements.txt
 python scripts/executar_experimento.py
 ```
 
-O script inicia e encerra automaticamente os contêineres necessários, publica as trajetórias GPS e coleta os resultados. São realizadas **50 execuções**: cinco cargas de veículos (`15`, `31`, `53`, `105` e `1209`), dois mecanismos e cinco repetições. A ordem entre Spark e Flink é invertida a cada repetição.
+O script inicia e encerra automaticamente os contêineres necessários, publica os dados de localização dos veículos e coleta os resultados. 
+
+São realizadas 50 execuções: cinco cargas de veículos (`15`, `31`, `53`, `105` e `1209`), dois mecanismos e cinco repetições.
 
 ## Resultados
 
