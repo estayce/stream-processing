@@ -1,4 +1,4 @@
-# Comparação Spark e Flink
+# Comparação entre Spark e Flink
 
 Testes de carga para comparar a latência dos eventos de entrada e saída de veículos em áreas de descarte irregular, gerados por pipelines implementados com Apache Spark Structured Streaming e Apache Flink, utilizando Apache Sedona para operações geoespaciais e Apache Kafka para transmissão dos dados
 
